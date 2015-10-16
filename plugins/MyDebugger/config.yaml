@@ -1,0 +1,6 @@
+id: MyDebugger
+name: MyDebugger
+version: 1.0.0
+description: プラグイン開発時に変数の内容を確認できるようにします。
+author_name: Hideki Abe
+author_link: https://www.anothersky.pw/
